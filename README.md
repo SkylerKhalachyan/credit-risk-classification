@@ -15,9 +15,15 @@ This supervised machine learning model was built to identify the creditworthines
 To create a copy that is ready to perform on your local computer follow these simple steps.
 
 #### Prerequisites
-*
+For this project, you will use the below-listed Python libraries. If you do not have these libraries installed in your virtual environment, run the codes provided to do so. 
+* hvplot
+```
+conda install -c pyviz hvplot
+```
+
 #### Installation
-*
+1. Install the above package(s)
+
 
 ### Usage
 #
