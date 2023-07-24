@@ -26,7 +26,8 @@ conda install -c pyviz hvplot
 
 
 ### Usage
-# Evaluate a model based on loan risk.
+# 
+* Evaluate a model based on loan risk.
 ### Acknowledgements
 #
 * Author: @SkylerKhalachyan
