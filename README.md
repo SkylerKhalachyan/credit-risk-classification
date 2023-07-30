@@ -61,7 +61,7 @@ conda install -c pyviz hvplot
 * Evaluate a model based on loan risk.
 ### Acknowledgements
 #
-* Author: @SkylerKhalachyan
+* Author: [Skyler Khalachyan](https://github.com/SkylerKhalachyan)
 * Contributors:
      - Study Groups: Collaborated with the Instructor and multiple students during class time to better understand the project.
      - Program: UC Berkeley Extension Data Analytics Bootcamp 
