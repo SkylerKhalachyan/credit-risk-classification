@@ -33,7 +33,7 @@ When we resampled our data, the accuracy score imporved, precision stayed the sa
 
 ### Built With:
 #
-* [![Scikit Logo](Credit_Risk/Resources/Images/Scikit_Learn_Logo.jpg? "Scikit logo")](https://scikit-learn.org/stable/)
+* [![Scikit Logo](Credit_Risk/Resources/Images/Scikit_Learn_Logo.png "Scikit logo")](https://scikit-learn.org/stable/)
 * [![Jupyter Logo](Credit_Risk/Resources/Images/Jupyter_logo.png "Jupyter logo")](https://jupyter.org/)
 * [![Python Logo](Credit_Risk/Resources/Images/python_logo.png "python logo")](https://www.python.org/)
 
